@@ -1,4 +1,4 @@
-# Dashboard Recursos Humanos
+# Dashboard Financeiro
 <br/>
 
 <p align="center">
